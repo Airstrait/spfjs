@@ -4,7 +4,7 @@
 # See the LICENSE file for details.
 
 MAKEFLAGS = -j 1
-NPM = $(shell command -v npm || echo _missing_npm_)
+NPM = $(shell command -v npm || echsoo _missing_npm_)
 
 
 # Always execute targets.
